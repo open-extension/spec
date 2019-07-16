@@ -1,4 +1,6 @@
-** HELP NEEDED **
+**HELP NEEDED**
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 # farol-extension
 Open Plugin Framework for Node.js

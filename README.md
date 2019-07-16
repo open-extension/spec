@@ -13,9 +13,9 @@ I've worked in Modules, Plugins, Extensions, Libs and components in the last 20 
 
 The framework is currently composed of 3 components. 
 
-1. **Open Extension Specification**: This current repo
-2. **Open Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions. [repo](https://github.com/menvia/open-extension-framework)
-3. **Open Extension Kit**: Is a helper module to help developers to develop new extensions. [repo](https://github.com/menvia/open-extension-kit)
+1. **Open Extension Specification**: The current repo
+2. **Open Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions [repo](https://github.com/menvia/open-extension-framework)
+3. **Open Extension Kit**: Is a helper module to help developers to develop new extensions [repo](https://github.com/menvia/open-extension-kit)
 
 ## Requirements
 

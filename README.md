@@ -2,8 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-# farol-extension
-Open Plugin Framework for Node.js
+# Open Extension
+Open Extension Framework for Node.js
 
 ## Motivation
 
@@ -13,9 +13,9 @@ I've worked in Modules, Plugins, Extensions, Libs and components in the last 20 
 
 The framework is currently composed of 3 components. 
 
-1. **Farol Extension Specification**: This current repo
-2. **Farol Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions.
-3. **Farol Extension Kit**: Is a helper module to help developers to develop new extensions.
+1. **Open Extension Specification**: This current repo
+2. **Open Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions.
+3. **Open Extension Kit**: Is a helper module to help developers to develop new extensions.
 
 ## Glossary
 

@@ -14,8 +14,20 @@ I've worked in Modules, Plugins, Extensions, Libs and components in the last 20 
 The framework is currently composed of 3 components. 
 
 1. **Open Extension Specification**: This current repo
-2. **Open Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions.
-3. **Open Extension Kit**: Is a helper module to help developers to develop new extensions.
+2. **Open Extension Framework**: Is the Framework that shall be implemented in the host application in order to implement and use the extensions. [repo](https://github.com/menvia/open-extension-framework)
+3. **Open Extension Kit**: Is a helper module to help developers to develop new extensions. [repo](https://github.com/menvia/open-extension-kit)
+
+## Requirements
+
+The extensions shall be able to support the following use cases: 
+- **Time-based extension-points**: defined and execute jobs like cron jobs (use cases: sync, payment verification, email or message sending, resending... )
+- **Event-based extension-points**: to features based on logs, monitoring and messaging.
+- **Function-based extension-points**: on active calls to be used as extension points in the middle of a process in which the result may be used by the actual application
+- **Logs**: enable the host to implement the log with errors, running history and information necessary to re-execute a function if necessary (may the log connectors be extensions itself)
+- **Metadata**: to have a standard way to list and document the extension and extension points.
+- **Permissions**: enable the host to show and get the acceptance of the permissions required by the extension to run.
+- **Privacy**: enable the host to show the privacy information to what data is shared with the extesion.
+- **Setup**: a way to install and restore extensions in live applications.
 
 ## Glossary
 

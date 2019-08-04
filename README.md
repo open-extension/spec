@@ -41,3 +41,8 @@ The framework is currently composed of 3 components.
 - **Extension-point**: Is an specific service or task implemented by an extension. An extension can implement multiple extension-points.
 - **Host**: The application that uses the extension framework to extend its capabilities.
 
+## Slack
+
+Want to discuss features, ideas or issues? Join our [Slack channel](https://openextension.slack.com). We are very active and friendly!  
+
+[![Chat on Slack](https://img.shields.io/badge/slack-openextension-CC2B5E.svg?style=flat&logo=slack)](https://openextension.slack.com)

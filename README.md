@@ -1,9 +1,17 @@
-**HELP NEEDED!**
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 # Open Extension
-Open Extension Framework for Node.js
+Open Extension is an specification and implementations to extend applications easily. 
+
+Think about any ERP, CRM, e-Commerce, blog, dashboard, panel or any other application you already used and had extensions or plugins so you could install it and extend the application capabilities to perform more or different tasks (ex.: Node RED, Shopify, Wordpress, Chrome, etc).
+
+The following scenarios are ways Open Extension will be able to help you: 
+  - as a platform creator you will be able to easily add an Open Extension Framework so other developers can easily extend your application adding new features or extend the existing ones. 
+  - as a platform creator you will have the ability to easily create a process to select and approve which extensions can run in your application, maintaning aspects of your business and the desired quality
+  - as a platform creator you will be able to enable your users to easily add more capabilities to their instance/account in your application. 
+  - as a extension builder you will be able to easily design and code an extension that can run accroos multiple applications. 
+  
+These are some of the scenarios that the Open Extension will solve in a way that multiple platforms can easily implement and benefit from it.
 
 ## Motivation
 

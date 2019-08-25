@@ -1,0 +1,1 @@
+# Open Extension Settings
